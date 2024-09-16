@@ -1,0 +1,7 @@
+D:\PROJECTS\DirectoryCreator\DirectoryCreator\bin\Debug\DirectoryCreator.exe.config
+D:\PROJECTS\DirectoryCreator\DirectoryCreator\bin\Debug\DirectoryCreator.exe
+D:\PROJECTS\DirectoryCreator\DirectoryCreator\bin\Debug\DirectoryCreator.pdb
+D:\PROJECTS\DirectoryCreator\DirectoryCreator\obj\Debug\DirectoryCreator.csproj.AssemblyReference.cache
+D:\PROJECTS\DirectoryCreator\DirectoryCreator\obj\Debug\DirectoryCreator.csproj.CoreCompileInputs.cache
+D:\PROJECTS\DirectoryCreator\DirectoryCreator\obj\Debug\DirectoryCreator.exe
+D:\PROJECTS\DirectoryCreator\DirectoryCreator\obj\Debug\DirectoryCreator.pdb

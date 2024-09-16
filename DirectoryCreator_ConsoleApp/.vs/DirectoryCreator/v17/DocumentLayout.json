@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\PROJECTS\\DirectoryCreator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FC3485C7-8899-4E47-883B-3B144947E442}|DirectoryCreator\\DirectoryCreator.csproj|d:\\projects\\directorycreator\\directorycreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FC3485C7-8899-4E47-883B-3B144947E442}|DirectoryCreator\\DirectoryCreator.csproj|solutionrelative:directorycreator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\PROJECTS\\DirectoryCreator\\DirectoryCreator\\Program.cs",
+              "RelativeDocumentMoniker": "DirectoryCreator\\Program.cs",
+              "ToolTip": "D:\\PROJECTS\\DirectoryCreator\\DirectoryCreator\\Program.cs",
+              "RelativeToolTip": "DirectoryCreator\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAUwCQAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T03:12:17.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
